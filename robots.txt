@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oakvilleductcleaningpros.ca/sitemap-index.xml
